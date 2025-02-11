@@ -1,0 +1,9 @@
+API_KEYS_FILE = 'api_keys.txt' # НЕ ТРОГАТЬ
+SESSIONS_FILE = 'sessions.txt' # НЕ ТРОГАТЬ
+USERNAMES_FILE = 'usernames.txt' # НЕ ТРОГАТЬ
+USED_FILE = 'used.txt' # НЕ ТРОГАТЬ
+PROXY_FILE = 'proxy.txt' # НЕ ТРОГАТЬ
+BOT_TOKEN = "7726319575:AAHDfI_nagKD2LBFnjbB8h1GhLy05sRFBzI" # токен бота
+ADMIN_ID = "6558998064" # айди админа , замените на свой
+LOG_CHANNEL_ID = -1002430206355 # айди канала с логами
+MAX_ACCOUNTS_PER_API = 10 # кол-во акков на один апи ключ
